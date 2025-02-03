@@ -17,7 +17,9 @@ This script deduplicates JSON records based on specific rules for IDs and emails
 
 ## Output
 
-The script outputs the deduplicated records as JSON directly to the console.
+The script outputs the deduplicated records as JSON directly to the console. 
+
+See `output.json`
 
 ## Assumptions Made
 
